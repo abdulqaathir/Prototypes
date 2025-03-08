@@ -1,0 +1,25 @@
+_temp_files/
+
+VideoLectures/
+
+
+**/.obsidian
+
+# Ignore everything in the Books folder
+Books/*
+ 
+# Allow all PDF files in any subdirectory of Books
+# !Books/**/*.pdf
+
+
+GoodNotes/
+
+**/*.ini
+
+Practice/
+
+__Python_Env/
+
+
+**/.ipynb_checkpoints
+

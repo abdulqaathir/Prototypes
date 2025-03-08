@@ -1,0 +1,6 @@
+mysql -u root -p
+SHOW VARIABLES LIKE 'log_bin';
+SHOW VARIABLES LIKE 'pid_file';
+SHOW VARIABLES LIKE 'server_id';
+
+
